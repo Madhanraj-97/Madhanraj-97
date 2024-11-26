@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madhanraj java Full stack developer
+- 👋 Hi, I’m Madhanraj java Full stack developer
 
 <!---
 Madhanraj-97/Madhanraj-97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
